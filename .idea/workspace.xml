@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97e30c05-4890-4c62-8596-072eb8f1af3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/p13.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1sleep.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Копия_блокнота_ lab1_ipynb .ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sleepdataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/отчет 1 нейросети.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/p13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/p13.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1sleep.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab1sleep.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Копия_блокнота_ lab1_ipynb .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Копия_блокнота_ lab1_ipynb .ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +17,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HorribleCorbie&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HorribleCorbie/AI12.git&quot;,
+    &quot;accountId&quot;: &quot;cc02baa0-de25-4924-ab6d-0d9d1a4135ea&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="3JAuM2kHPbeJPCEHIxX1K5UamlV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,12 +42,14 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/admin/PycharmProjects/p13"
+    "last_opened_file_path": "C:/Users/Daria/PycharmProjects/AI12"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Daria\PycharmProjects\AI12" />
       <recent name="C:\Users\admin\PycharmProjects\p13" />
     </key>
   </component>
