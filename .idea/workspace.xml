@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97e30c05-4890-4c62-8596-072eb8f1af3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Sleepdataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/отчет 1 нейросети.docx" afterDir="false" />
+    <list default="true" id="97e30c05-4890-4c62-8596-072eb8f1af3c" name="Changes" comment="Новая версия">
       <change beforePath="$PROJECT_DIR$/.idea/p13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/p13.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab1sleep.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab1sleep.ipynb" afterDir="false" />
@@ -15,6 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -26,7 +29,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/HorribleCorbie/AI12.git&quot;,
-    &quot;accountId&quot;: &quot;cc02baa0-de25-4924-ab6d-0d9d1a4135ea&quot;
+    &quot;accountId&quot;: &quot;821cf2ed-7179-4e26-bcf6-f9292cdd413e&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -37,16 +40,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Daria/PycharmProjects/AI12"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;ac404133&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Daria/PycharmProjects/AI12&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Daria\PycharmProjects\AI12" />
@@ -69,5 +72,16 @@
       <updated>1789116142763</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/lab1sleep.ipynb</url>
+          <line>683</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
